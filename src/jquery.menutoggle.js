@@ -6,7 +6,7 @@
 *	Tested jQuery versions: 1.9.1
 *	Version: 1.0
 *	Last update: 2013-05-16
-*	Github project: 
+*	Github project: https://github.com/Companjo/jquery-menutoggle
 *
  ***************************************************************************************/
 
