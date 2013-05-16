@@ -39,3 +39,5 @@ jQuery Menu Toggle is a jQuery plugin to toggle menus.
 ```
 
 Option 'effect' is not required.
+
+[Download the latest release](https://github.com/Companjo/jquery-menutoggle/archive/master.zip).
