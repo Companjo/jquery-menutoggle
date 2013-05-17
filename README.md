@@ -1,6 +1,6 @@
 # Usage
 
-jQuery Menu Toggle is a jQuery plugin to toggle menus.
+jQuery Menu Toggle is a simple jQuery plugin to toggle menus.
 
 #### Menu Fade Toggle
 
