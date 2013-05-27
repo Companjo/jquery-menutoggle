@@ -11,7 +11,7 @@ jQuery Menu Toggle is a simple jQuery plugin to toggle menus.
 				effect: "fade",
 				speed: 2000
 		});
-	})
+	});
 ```
 
 #### Menu Slide Toggle
@@ -23,7 +23,7 @@ jQuery Menu Toggle is a simple jQuery plugin to toggle menus.
 				effect: "slide",
 				speed: 2000
 		});
-	})
+	});
 ```
 
 #### Menu Toggle without any effect
@@ -35,7 +35,7 @@ jQuery Menu Toggle is a simple jQuery plugin to toggle menus.
 				effect: "none",
 				speed: 2000
 		});
-	})
+	});
 ```
 
 Option 'effect' is not required.
