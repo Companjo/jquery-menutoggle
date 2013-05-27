@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Example</title>
+	<script src="src/jquery-1.9.1.min.js"></script>
+	<script src="src/jquery.menutoggle.js"></script>
+	<script>
+	$("document").ready(function(){
+		$("#topmenu").menutoggle({
+			handler: "#topmenu_toggle",
+			effect: "fade",
+			speed: 1000
+		});
+	});
+	</script>
+</head>
+<body>
+
+<button id="topmenu_toggle">Hi, click me please!</button>
+<br /><br />
+
+<ul id="topmenu">
+	<li><a href="#">Link 1</a></li>
+	<li><a href="#">Link 2</a></li>
+	<li><a href="#">Link 3</a></li>
+	<li><a href="#">Link 4</a></li>
+	<li><a href="#">Link 5</a></li>
+	<li><a href="#">Link 6</a></li>
+</ul>
+
+</body>
+</html>
