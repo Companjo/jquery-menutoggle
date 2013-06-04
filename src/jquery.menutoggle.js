@@ -3,7 +3,7 @@
 *	jQuery Menu Toggle
 * 	Author: Yassin Akhachab
 *	W: www.yassinakhachab.com
-*	Tested jQuery versions: 1.9.1, 2.0.0
+*	Tested jQuery versions: 1.9.1, 2.0.0, 2.0.1, 2.0.2
 *	Version: 1.0
 *	Last update: 2013-05-16
 *	Github project: https://github.com/Companjo/jquery-menutoggle
